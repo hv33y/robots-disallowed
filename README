@@ -33,18 +33,6 @@ So what we did is take the Alexa Top 100,000 websites, download their robots.txt
 - "backup"
 - The top 25 entries from the full list
 
-In short, it's the best of the best. https://github.com/danielmiessler blogged more about https://danielmiessler.com/blog/the-most-interesting-disallowed-directories/.
-
 TL;DR: If you want the best use of your time, go with curated.txt.
-
-~ Credit
-
-This concept is not new. The RAFT project was the first to do this, and we thank them for their pioneering of the idea. But the project is now dead and gone, and since the idea works best when it's kept up-to-date, we decided to give it a refresh in the form of RobotsDisallowed.
-
-~ Shoutouts
-
-Thanks so much to [Jason Haddix](https://twitter.com/jhaddix) and [Tim Tomes](https://twitter.com/lanmaster53) for talking about the project on Twitter and in their bounty/recon/hacking presentations around the world.
-
-Thanks so much to [Daniel Miessler](https://github.com/danielmiessler) for making [RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) repo.
 
 Thank you, and happy hacking!
